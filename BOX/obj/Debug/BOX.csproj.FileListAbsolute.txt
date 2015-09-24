@@ -1,0 +1,5 @@
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\BOX\BOX\bin\Debug\BOX.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\BOX\BOX\bin\Debug\BOX.pdb
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\BOX\BOX\obj\Debug\BOX.csprojResolveAssemblyReference.cache
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\BOX\BOX\obj\Debug\BOX.exe
+c:\users\rifat ahmed\documents\visual studio 2013\Projects\BOX\BOX\obj\Debug\BOX.pdb
